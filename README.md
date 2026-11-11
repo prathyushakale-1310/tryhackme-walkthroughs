@@ -34,16 +34,6 @@ tryhackme-walkthroughs/
 │
 └── Hard/
 ```
-
-## Completed Rooms
-
-| Difficulty | Completed Rooms |
-|---|---:|
-| Easy | 32 |
-| Medium | 29 |
-| Hard | 7 |
-| **Total** | **68** |
-
 ## Walkthrough Contents
 
 Each walkthrough aims to include:
